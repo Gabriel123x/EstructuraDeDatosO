@@ -1,0 +1,7 @@
+C:\Users\Pedro Gabriel\Desktop\Pedro PC\visual studio\Ejercisios de estructura de datos\SumaDeNumeros\SumaDeNumeros\bin\Debug\SumaDeNumeros.exe.config
+C:\Users\Pedro Gabriel\Desktop\Pedro PC\visual studio\Ejercisios de estructura de datos\SumaDeNumeros\SumaDeNumeros\bin\Debug\SumaDeNumeros.exe
+C:\Users\Pedro Gabriel\Desktop\Pedro PC\visual studio\Ejercisios de estructura de datos\SumaDeNumeros\SumaDeNumeros\bin\Debug\SumaDeNumeros.pdb
+C:\Users\Pedro Gabriel\Desktop\Pedro PC\visual studio\Ejercisios de estructura de datos\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.csprojAssemblyReference.cache
+C:\Users\Pedro Gabriel\Desktop\Pedro PC\visual studio\Ejercisios de estructura de datos\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Gabriel\Desktop\Pedro PC\visual studio\Ejercisios de estructura de datos\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.exe
+C:\Users\Pedro Gabriel\Desktop\Pedro PC\visual studio\Ejercisios de estructura de datos\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.pdb
