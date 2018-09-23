@@ -1,0 +1,14 @@
+F:\tec\Semestre 3\Archivos ED\Archivos ED\bin\Debug\Archivos ED.exe.config
+F:\tec\Semestre 3\Archivos ED\Archivos ED\bin\Debug\Archivos ED.exe
+F:\tec\Semestre 3\Archivos ED\Archivos ED\bin\Debug\Archivos ED.pdb
+F:\tec\Semestre 3\Archivos ED\Archivos ED\obj\Debug\Archivos ED.csprojAssemblyReference.cache
+F:\tec\Semestre 3\Archivos ED\Archivos ED\obj\Debug\Archivos ED.csproj.CoreCompileInputs.cache
+F:\tec\Semestre 3\Archivos ED\Archivos ED\obj\Debug\Archivos ED.exe
+F:\tec\Semestre 3\Archivos ED\Archivos ED\obj\Debug\Archivos ED.pdb
+D:\tec\Semestre 3\Archivos ED\Archivos ED\bin\Debug\Archivos ED.exe.config
+D:\tec\Semestre 3\Archivos ED\Archivos ED\bin\Debug\Archivos ED.exe
+D:\tec\Semestre 3\Archivos ED\Archivos ED\bin\Debug\Archivos ED.pdb
+D:\tec\Semestre 3\Archivos ED\Archivos ED\obj\Debug\Archivos ED.csprojAssemblyReference.cache
+D:\tec\Semestre 3\Archivos ED\Archivos ED\obj\Debug\Archivos ED.csproj.CoreCompileInputs.cache
+D:\tec\Semestre 3\Archivos ED\Archivos ED\obj\Debug\Archivos ED.exe
+D:\tec\Semestre 3\Archivos ED\Archivos ED\obj\Debug\Archivos ED.pdb
