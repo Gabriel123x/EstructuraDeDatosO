@@ -1,0 +1,7 @@
+D:\tec\Semestre 3\E1U2.AcevedoEnsisoPedroGabriel\E1U2.AcevedoEnsisoPedroGabriel\bin\Debug\E1U2.AcevedoEnsisoPedroGabriel.exe.config
+D:\tec\Semestre 3\E1U2.AcevedoEnsisoPedroGabriel\E1U2.AcevedoEnsisoPedroGabriel\bin\Debug\E1U2.AcevedoEnsisoPedroGabriel.exe
+D:\tec\Semestre 3\E1U2.AcevedoEnsisoPedroGabriel\E1U2.AcevedoEnsisoPedroGabriel\bin\Debug\E1U2.AcevedoEnsisoPedroGabriel.pdb
+D:\tec\Semestre 3\E1U2.AcevedoEnsisoPedroGabriel\E1U2.AcevedoEnsisoPedroGabriel\obj\Debug\E1U2.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+D:\tec\Semestre 3\E1U2.AcevedoEnsisoPedroGabriel\E1U2.AcevedoEnsisoPedroGabriel\obj\Debug\E1U2.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+D:\tec\Semestre 3\E1U2.AcevedoEnsisoPedroGabriel\E1U2.AcevedoEnsisoPedroGabriel\obj\Debug\E1U2.AcevedoEnsisoPedroGabriel.exe
+D:\tec\Semestre 3\E1U2.AcevedoEnsisoPedroGabriel\E1U2.AcevedoEnsisoPedroGabriel\obj\Debug\E1U2.AcevedoEnsisoPedroGabriel.pdb
