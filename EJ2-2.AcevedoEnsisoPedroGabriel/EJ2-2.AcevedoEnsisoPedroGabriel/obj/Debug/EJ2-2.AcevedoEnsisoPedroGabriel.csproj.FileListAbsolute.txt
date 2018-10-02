@@ -1,0 +1,7 @@
+D:\tec\Semestre 3\Estructura de datos\EJ2-2.AcevedoEnsisoPedroGabriel\EJ2-2.AcevedoEnsisoPedroGabriel\bin\Debug\EJ2-2.AcevedoEnsisoPedroGabriel.exe.config
+D:\tec\Semestre 3\Estructura de datos\EJ2-2.AcevedoEnsisoPedroGabriel\EJ2-2.AcevedoEnsisoPedroGabriel\bin\Debug\EJ2-2.AcevedoEnsisoPedroGabriel.exe
+D:\tec\Semestre 3\Estructura de datos\EJ2-2.AcevedoEnsisoPedroGabriel\EJ2-2.AcevedoEnsisoPedroGabriel\bin\Debug\EJ2-2.AcevedoEnsisoPedroGabriel.pdb
+D:\tec\Semestre 3\Estructura de datos\EJ2-2.AcevedoEnsisoPedroGabriel\EJ2-2.AcevedoEnsisoPedroGabriel\obj\Debug\EJ2-2.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+D:\tec\Semestre 3\Estructura de datos\EJ2-2.AcevedoEnsisoPedroGabriel\EJ2-2.AcevedoEnsisoPedroGabriel\obj\Debug\EJ2-2.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+D:\tec\Semestre 3\Estructura de datos\EJ2-2.AcevedoEnsisoPedroGabriel\EJ2-2.AcevedoEnsisoPedroGabriel\obj\Debug\EJ2-2.AcevedoEnsisoPedroGabriel.exe
+D:\tec\Semestre 3\Estructura de datos\EJ2-2.AcevedoEnsisoPedroGabriel\EJ2-2.AcevedoEnsisoPedroGabriel\obj\Debug\EJ2-2.AcevedoEnsisoPedroGabriel.pdb
