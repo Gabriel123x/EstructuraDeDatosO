@@ -1,0 +1,7 @@
+D:\tec\Semestre 3\Estructura de datos\PE2.AcevedoEnsisoPedroGabriel\PE2.AcevedoEnsisoPedroGabriel\obj\Debug\PE2.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+D:\tec\Semestre 3\Estructura de datos\PE2.AcevedoEnsisoPedroGabriel\PE2.AcevedoEnsisoPedroGabriel\obj\Debug\PE2.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+D:\tec\Semestre 3\Estructura de datos\PE2.AcevedoEnsisoPedroGabriel\PE2.AcevedoEnsisoPedroGabriel\bin\Debug\PE2.AcevedoEnsisoPedroGabriel.exe.config
+D:\tec\Semestre 3\Estructura de datos\PE2.AcevedoEnsisoPedroGabriel\PE2.AcevedoEnsisoPedroGabriel\bin\Debug\PE2.AcevedoEnsisoPedroGabriel.exe
+D:\tec\Semestre 3\Estructura de datos\PE2.AcevedoEnsisoPedroGabriel\PE2.AcevedoEnsisoPedroGabriel\bin\Debug\PE2.AcevedoEnsisoPedroGabriel.pdb
+D:\tec\Semestre 3\Estructura de datos\PE2.AcevedoEnsisoPedroGabriel\PE2.AcevedoEnsisoPedroGabriel\obj\Debug\PE2.AcevedoEnsisoPedroGabriel.exe
+D:\tec\Semestre 3\Estructura de datos\PE2.AcevedoEnsisoPedroGabriel\PE2.AcevedoEnsisoPedroGabriel\obj\Debug\PE2.AcevedoEnsisoPedroGabriel.pdb
