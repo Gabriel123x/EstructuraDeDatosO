@@ -1,0 +1,14 @@
+F:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\bin\Debug\E.C.AcevedoEnsisoPedroGabriel.exe.config
+F:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\bin\Debug\E.C.AcevedoEnsisoPedroGabriel.exe
+F:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\bin\Debug\E.C.AcevedoEnsisoPedroGabriel.pdb
+F:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\obj\Debug\E.C.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+F:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\obj\Debug\E.C.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+F:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\obj\Debug\E.C.AcevedoEnsisoPedroGabriel.exe
+F:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\obj\Debug\E.C.AcevedoEnsisoPedroGabriel.pdb
+E:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\bin\Debug\E.C.AcevedoEnsisoPedroGabriel.exe.config
+E:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\bin\Debug\E.C.AcevedoEnsisoPedroGabriel.exe
+E:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\bin\Debug\E.C.AcevedoEnsisoPedroGabriel.pdb
+E:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\obj\Debug\E.C.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+E:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\obj\Debug\E.C.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+E:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\obj\Debug\E.C.AcevedoEnsisoPedroGabriel.exe
+E:\tec\Semestre 3\Estructura de datos\Unidad 3\E.C.AcevedoEnsisoPedroGabriel\E.C.AcevedoEnsisoPedroGabriel\obj\Debug\E.C.AcevedoEnsisoPedroGabriel.pdb
