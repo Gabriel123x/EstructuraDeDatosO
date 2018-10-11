@@ -1,0 +1,7 @@
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\E3-1.AcevedoEnsisoPedroGabriel\E3-1.AcevedoEnsisoPedroGabriel\bin\Debug\E3-1.AcevedoEnsisoPedroGabriel.exe.config
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\E3-1.AcevedoEnsisoPedroGabriel\E3-1.AcevedoEnsisoPedroGabriel\bin\Debug\E3-1.AcevedoEnsisoPedroGabriel.exe
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\E3-1.AcevedoEnsisoPedroGabriel\E3-1.AcevedoEnsisoPedroGabriel\bin\Debug\E3-1.AcevedoEnsisoPedroGabriel.pdb
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\E3-1.AcevedoEnsisoPedroGabriel\E3-1.AcevedoEnsisoPedroGabriel\obj\Debug\E3-1.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\E3-1.AcevedoEnsisoPedroGabriel\E3-1.AcevedoEnsisoPedroGabriel\obj\Debug\E3-1.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\E3-1.AcevedoEnsisoPedroGabriel\E3-1.AcevedoEnsisoPedroGabriel\obj\Debug\E3-1.AcevedoEnsisoPedroGabriel.exe
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\E3-1.AcevedoEnsisoPedroGabriel\E3-1.AcevedoEnsisoPedroGabriel\obj\Debug\E3-1.AcevedoEnsisoPedroGabriel.pdb
