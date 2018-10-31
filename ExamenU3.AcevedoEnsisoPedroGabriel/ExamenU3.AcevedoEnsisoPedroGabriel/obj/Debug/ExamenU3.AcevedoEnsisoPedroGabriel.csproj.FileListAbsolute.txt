@@ -1,0 +1,14 @@
+C:\Users\Pedro Gabriel\Desktop\PedroPC\Visual studio\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.exe.config
+C:\Users\Pedro Gabriel\Desktop\PedroPC\Visual studio\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.exe
+C:\Users\Pedro Gabriel\Desktop\PedroPC\Visual studio\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.pdb
+C:\Users\Pedro Gabriel\Desktop\PedroPC\Visual studio\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+C:\Users\Pedro Gabriel\Desktop\PedroPC\Visual studio\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Gabriel\Desktop\PedroPC\Visual studio\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.exe
+C:\Users\Pedro Gabriel\Desktop\PedroPC\Visual studio\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.pdb
+E:\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.exe.config
+E:\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.exe
+E:\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.pdb
+E:\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+E:\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+E:\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.exe
+E:\ExamenU3.AcevedoEnsisoPedroGabriel\ExamenU3.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU3.AcevedoEnsisoPedroGabriel.pdb
